@@ -22,7 +22,7 @@ In this project we have created a QR code component. when we scan it we are redi
 ![](Design/website_preview.jpg)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://github.com/Code-Cybo/QR-component-linkdin.git
 
 ## My process
 - At first we have created two divs.
@@ -159,11 +159,10 @@ eed to work on CSS sizing to overcme the problems i fced this time.
 
 ## Author
 
-- Website - Om Sonar 
+- Website - Om Sonar (https://github.com/Code-Cybo/QR-component-linkdin.git)
 - Frontend Mentor - [@Code-Cybo](https://www.frontendmentor.io/profile/Code-Cybo)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Omsonar03](https://www.twitter.com/Omsonar03)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
