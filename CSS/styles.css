@@ -1,19 +1,21 @@
-body{
+body {
   font-family: 'Outfit', sans-serif;
   background-color: #f2f6fd;
   margin: 0;
   text-align: center;
 }
-.main{
+
+.main {
   width: 70vw;
-  background-color:  #d6e2f0;
+  background-color: #d6e2f0;
   margin: 15vh 15vw;
   height: 70vh;
   border-radius: 10px;
   box-shadow: 0 10px 20px lightgrey;
   position: fixed;
 }
-.qr{
+
+.qr {
   background-color: white;
   width: 20vw;
   height: 60vh;
@@ -22,42 +24,48 @@ body{
   top: 5vh;
   left: 25vw;
   box-shadow: 0 15px 20px lightblue;
-
 }
-.img{
+
+.img {
   width: 17vw;
   height: 33vh;
   margin: 0;
   margin-top: 15px;
   border-radius: 15px;
 }
-.txt{
+
+.txt {
   margin: 10px 0 20px 2.7vw;
   font-size: 15px;
   width: 15vw;
 }
-.tzt{
+
+.tzt {
   margin: 10px 0 5px 1.8vw;
   font-size: 1.5vw;
   width: 17vw
 }
-.dot{
+
+.dot {
   position: absolute;
   top: 20vh;
   left: -20vw;
 }
-.wave{
+
+.wave {
   position: absolute;
   top: 30vh;
   right: -2vw;
 }
-.l{
+
+.l {
   height: 80px;
   position: absolute;
   top: -18vh;
   left: 50vw;
 }
-.circle{
+
+.circle {
   height: 400px;
   width: 400px;
   position: absolute;
