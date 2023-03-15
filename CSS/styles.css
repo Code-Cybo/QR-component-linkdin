@@ -1,6 +1,5 @@
 body{
   font-family: 'Outfit', sans-serif;
-  /* background-color: #7b879d ; */
   background-color: #f2f6fd;
   margin: 0;
   text-align: center;
@@ -8,12 +7,11 @@ body{
 .main{
   width: 70vw;
   background-color:  #d6e2f0;
-  /* margin: auto auto; */
-  /* margin-top: 90px; */
   margin: 15vh 15vw;
   height: 70vh;
   border-radius: 10px;
   box-shadow: 0 10px 20px lightgrey;
+  position: fixed;
 }
 .qr{
   background-color: white;
@@ -21,9 +19,10 @@ body{
   height: 60vh;
   border-radius: 10px;
   position: absolute;
-  top: 20vh;
-  left: 40vw;
+  top: 5vh;
+  left: 25vw;
   box-shadow: 0 15px 20px lightblue;
+
 }
 .img{
   width: 17vw;
@@ -44,8 +43,8 @@ body{
 }
 .dot{
   position: absolute;
-  top: 45vh;
-  left: -5vw;
+  top: 20vh;
+  left: -20vw;
 }
 .wave{
   position: absolute;
@@ -55,13 +54,13 @@ body{
 .l{
   height: 80px;
   position: absolute;
-  top: -2vh;
-  left: 60vw;
+  top: -18vh;
+  left: 50vw;
 }
 .circle{
   height: 400px;
   width: 400px;
   position: absolute;
-  bottom: -30vh;
-  left: 40vw;
+  bottom: -40vh;
+  left: 10vw;
 }
